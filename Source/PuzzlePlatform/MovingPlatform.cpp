@@ -2,7 +2,6 @@
 
 #include "MovingPlatform.h"
 
-
 AMovingPlatform::AMovingPlatform()
 {
     PrimaryActorTick.bCanEverTick = true;
@@ -18,5 +17,14 @@ void AMovingPlatform::Tick(float DeltaTime)
         FVector Location = GetActorLocation();
         Location += FVector(Speed * DeltaTime, 0, 0);
         SetActorLocation(Location);
+    }
+}
+
+void AMovingPlatform::BeginPlay() {
+    Super::BeginPlay();
+
+    if(HasAuthority()){
+        SetReplicates(true);
+        SetReplicateMovement(true);
     }
 }
