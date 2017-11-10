@@ -597,8 +597,11 @@
 			}
 		},
 		{
-			"taskName": "PuzzlePlatformEditor Mac Development Build",
-			"group": "build",
+			"label": "PuzzlePlatformEditor Mac Development Build",
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			},
 			"command": "Engine/Build/BatchFiles/Mac/Build.sh",
 			"args": [
 				"PuzzlePlatformEditor",

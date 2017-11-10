@@ -335,10 +335,7 @@
                 "/Users/Shared/EpicGames/UE_4.18/Engine/Intermediate/Build/Mac/UE4Editor/Inc/AudioMixer",
                 "/Users/Shared/EpicGames/UE_4.18/Engine/Source/Runtime/AudioMixer",
                 "/usr/include",
-                "/usr/local/include",
-                "/usr/include/c++/4.2.1",
-                "/System/Library/Frameworks/Kernel.framework/Versions/A/Headers",
-                "/System/Library/Frameworks/OpenCL.framework/Versions/A/lib/clang/2.0/include"
+                "/usr/local/include"
             ],
             "intelliSenseMode": "clang-x64",
             "macFrameworkPath": [
