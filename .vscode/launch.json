@@ -1,0 +1,90 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"name": "PuzzlePlatform (Debug)",
+			"request": "launch",
+			"preLaunchTask": "PuzzlePlatform Mac Debug Build",
+			"program": "/Users/Rogue/Documents/Unreal Projects/PuzzlePlatform/Binaries/Mac/PuzzlePlatform-Mac-Debug.app/Contents/MacOS/PuzzlePlatform-Mac-Debug",
+			"args": [
+			],
+			"cwd": "/Users/Shared/EpicGames/UE_4.18",
+			"type": "lldb"
+		},
+		{
+			"name": "PuzzlePlatform (DebugGame)",
+			"request": "launch",
+			"preLaunchTask": "PuzzlePlatform Mac DebugGame Build",
+			"program": "/Users/Rogue/Documents/Unreal Projects/PuzzlePlatform/Binaries/Mac/PuzzlePlatform-Mac-DebugGame.app/Contents/MacOS/PuzzlePlatform-Mac-DebugGame",
+			"args": [
+			],
+			"cwd": "/Users/Shared/EpicGames/UE_4.18",
+			"type": "lldb"
+		},
+		{
+			"name": "PuzzlePlatform (Development)",
+			"request": "launch",
+			"preLaunchTask": "PuzzlePlatform Mac Development Build",
+			"program": "/Users/Rogue/Documents/Unreal Projects/PuzzlePlatform/Binaries/Mac/PuzzlePlatform.app/Contents/MacOS/PuzzlePlatform",
+			"args": [
+			],
+			"cwd": "/Users/Shared/EpicGames/UE_4.18",
+			"type": "lldb"
+		},
+		{
+			"name": "PuzzlePlatform (Shipping)",
+			"request": "launch",
+			"preLaunchTask": "PuzzlePlatform Mac Shipping Build",
+			"program": "/Users/Rogue/Documents/Unreal Projects/PuzzlePlatform/Binaries/Mac/PuzzlePlatform-Mac-Shipping.app/Contents/MacOS/PuzzlePlatform-Mac-Shipping",
+			"args": [
+			],
+			"cwd": "/Users/Shared/EpicGames/UE_4.18",
+			"type": "lldb"
+		},
+		{
+			"name": "PuzzlePlatform (Test)",
+			"request": "launch",
+			"preLaunchTask": "PuzzlePlatform Mac Test Build",
+			"program": "/Users/Rogue/Documents/Unreal Projects/PuzzlePlatform/Binaries/Mac/PuzzlePlatform-Mac-Test.app/Contents/MacOS/PuzzlePlatform-Mac-Test",
+			"args": [
+			],
+			"cwd": "/Users/Shared/EpicGames/UE_4.18",
+			"type": "lldb"
+		},
+		{
+			"name": "PuzzlePlatformEditor (Debug)",
+			"request": "launch",
+			"preLaunchTask": "PuzzlePlatformEditor Mac Debug Build",
+			"program": "/Users/Shared/EpicGames/UE_4.18/Engine/Binaries/Mac/UE4Editor-Mac-Debug.app/Contents/MacOS/UE4Editor-Mac-Debug",
+			"args": [
+				"/Users/Rogue/Documents/Unreal Projects/PuzzlePlatform/PuzzlePlatform.uproject",
+				"-debug"
+			],
+			"cwd": "/Users/Shared/EpicGames/UE_4.18",
+			"type": "lldb"
+		},
+		{
+			"name": "PuzzlePlatformEditor (DebugGame)",
+			"request": "launch",
+			"preLaunchTask": "PuzzlePlatformEditor Mac DebugGame Build",
+			"program": "/Users/Shared/EpicGames/UE_4.18/Engine/Binaries/Mac/UE4Editor.app/Contents/MacOS/UE4Editor",
+			"args": [
+				"/Users/Rogue/Documents/Unreal Projects/PuzzlePlatform/PuzzlePlatform.uproject",
+				"-debug"
+			],
+			"cwd": "/Users/Shared/EpicGames/UE_4.18",
+			"type": "lldb"
+		},
+		{
+			"name": "PuzzlePlatformEditor (Development)",
+			"request": "launch",
+			"preLaunchTask": "PuzzlePlatformEditor Mac Development Build",
+			"program": "/Users/Shared/EpicGames/UE_4.18/Engine/Binaries/Mac/UE4Editor.app/Contents/MacOS/UE4Editor",
+			"args": [
+				"/Users/Rogue/Documents/Unreal Projects/PuzzlePlatform/PuzzlePlatform.uproject"
+			],
+			"cwd": "/Users/Shared/EpicGames/UE_4.18",
+			"type": "lldb"
+		}
+	]
+}

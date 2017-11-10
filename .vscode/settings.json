@@ -1,0 +1,12 @@
+{
+	"typescript.tsc.autoDetect": "off",
+	"files.exclude": {
+		"/Users/Rogue/Documents/Unreal Projects/PuzzlePlatform/.git": true,
+		"/Users/Rogue/Documents/Unreal Projects/PuzzlePlatform/.vscode": true,
+		"/Users/Rogue/Documents/Unreal Projects/PuzzlePlatform/Content": true,
+		"/Users/Rogue/Documents/Unreal Projects/PuzzlePlatform/Intermediate": true,
+		"/Users/Rogue/Documents/Unreal Projects/PuzzlePlatform/PuzzlePlatform.xcworkspace": true,
+		"/Users/Rogue/Documents/Unreal Projects/PuzzlePlatform/Saved": true
+	},
+	"C_Cpp.intelliSenseEngineFallback": "Enabled"
+}

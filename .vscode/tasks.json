@@ -1,0 +1,635 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"taskName": "PuzzlePlatform Mac Debug Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Mac/Build.sh",
+			"args": [
+				"PuzzlePlatform",
+				"Mac",
+				"Debug",
+				"'/Users/Rogue/Documents/Unreal Projects/PuzzlePlatform/PuzzlePlatform.uproject'",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/Users/Shared/EpicGames/UE_4.18"
+			}
+		},
+		{
+			"taskName": "PuzzlePlatform Mac Debug Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Mac/Build.sh",
+			"args": [
+				"PuzzlePlatform",
+				"Mac",
+				"Debug",
+				"'/Users/Rogue/Documents/Unreal Projects/PuzzlePlatform/PuzzlePlatform.uproject'",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/Users/Shared/EpicGames/UE_4.18"
+			}
+		},
+		{
+			"taskName": "PuzzlePlatform Mac DebugGame Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Mac/Build.sh",
+			"args": [
+				"PuzzlePlatform",
+				"Mac",
+				"DebugGame",
+				"'/Users/Rogue/Documents/Unreal Projects/PuzzlePlatform/PuzzlePlatform.uproject'",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/Users/Shared/EpicGames/UE_4.18"
+			}
+		},
+		{
+			"taskName": "PuzzlePlatform Mac DebugGame Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Mac/Build.sh",
+			"args": [
+				"PuzzlePlatform",
+				"Mac",
+				"DebugGame",
+				"'/Users/Rogue/Documents/Unreal Projects/PuzzlePlatform/PuzzlePlatform.uproject'",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/Users/Shared/EpicGames/UE_4.18"
+			}
+		},
+		{
+			"taskName": "PuzzlePlatform Mac Development Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Mac/Build.sh",
+			"args": [
+				"PuzzlePlatform",
+				"Mac",
+				"Development",
+				"'/Users/Rogue/Documents/Unreal Projects/PuzzlePlatform/PuzzlePlatform.uproject'",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/Users/Shared/EpicGames/UE_4.18"
+			}
+		},
+		{
+			"taskName": "PuzzlePlatform Mac Development Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Mac/Build.sh",
+			"args": [
+				"PuzzlePlatform",
+				"Mac",
+				"Development",
+				"'/Users/Rogue/Documents/Unreal Projects/PuzzlePlatform/PuzzlePlatform.uproject'",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/Users/Shared/EpicGames/UE_4.18"
+			}
+		},
+		{
+			"taskName": "PuzzlePlatform Mac Shipping Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Mac/Build.sh",
+			"args": [
+				"PuzzlePlatform",
+				"Mac",
+				"Shipping",
+				"'/Users/Rogue/Documents/Unreal Projects/PuzzlePlatform/PuzzlePlatform.uproject'",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/Users/Shared/EpicGames/UE_4.18"
+			}
+		},
+		{
+			"taskName": "PuzzlePlatform Mac Shipping Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Mac/Build.sh",
+			"args": [
+				"PuzzlePlatform",
+				"Mac",
+				"Shipping",
+				"'/Users/Rogue/Documents/Unreal Projects/PuzzlePlatform/PuzzlePlatform.uproject'",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/Users/Shared/EpicGames/UE_4.18"
+			}
+		},
+		{
+			"taskName": "PuzzlePlatform Mac Test Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Mac/Build.sh",
+			"args": [
+				"PuzzlePlatform",
+				"Mac",
+				"Test",
+				"'/Users/Rogue/Documents/Unreal Projects/PuzzlePlatform/PuzzlePlatform.uproject'",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/Users/Shared/EpicGames/UE_4.18"
+			}
+		},
+		{
+			"taskName": "PuzzlePlatform Mac Test Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Mac/Build.sh",
+			"args": [
+				"PuzzlePlatform",
+				"Mac",
+				"Test",
+				"'/Users/Rogue/Documents/Unreal Projects/PuzzlePlatform/PuzzlePlatform.uproject'",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/Users/Shared/EpicGames/UE_4.18"
+			}
+		},
+		{
+			"taskName": "PuzzlePlatform IOS Debug Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Mac/Build.sh",
+			"args": [
+				"PuzzlePlatform",
+				"IOS",
+				"Debug",
+				"'/Users/Rogue/Documents/Unreal Projects/PuzzlePlatform/PuzzlePlatform.uproject'",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/Users/Shared/EpicGames/UE_4.18"
+			}
+		},
+		{
+			"taskName": "PuzzlePlatform IOS Debug Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Mac/Build.sh",
+			"args": [
+				"PuzzlePlatform",
+				"IOS",
+				"Debug",
+				"'/Users/Rogue/Documents/Unreal Projects/PuzzlePlatform/PuzzlePlatform.uproject'",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/Users/Shared/EpicGames/UE_4.18"
+			}
+		},
+		{
+			"taskName": "PuzzlePlatform IOS DebugGame Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Mac/Build.sh",
+			"args": [
+				"PuzzlePlatform",
+				"IOS",
+				"DebugGame",
+				"'/Users/Rogue/Documents/Unreal Projects/PuzzlePlatform/PuzzlePlatform.uproject'",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/Users/Shared/EpicGames/UE_4.18"
+			}
+		},
+		{
+			"taskName": "PuzzlePlatform IOS DebugGame Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Mac/Build.sh",
+			"args": [
+				"PuzzlePlatform",
+				"IOS",
+				"DebugGame",
+				"'/Users/Rogue/Documents/Unreal Projects/PuzzlePlatform/PuzzlePlatform.uproject'",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/Users/Shared/EpicGames/UE_4.18"
+			}
+		},
+		{
+			"taskName": "PuzzlePlatform IOS Development Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Mac/Build.sh",
+			"args": [
+				"PuzzlePlatform",
+				"IOS",
+				"Development",
+				"'/Users/Rogue/Documents/Unreal Projects/PuzzlePlatform/PuzzlePlatform.uproject'",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/Users/Shared/EpicGames/UE_4.18"
+			}
+		},
+		{
+			"taskName": "PuzzlePlatform IOS Development Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Mac/Build.sh",
+			"args": [
+				"PuzzlePlatform",
+				"IOS",
+				"Development",
+				"'/Users/Rogue/Documents/Unreal Projects/PuzzlePlatform/PuzzlePlatform.uproject'",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/Users/Shared/EpicGames/UE_4.18"
+			}
+		},
+		{
+			"taskName": "PuzzlePlatform IOS Shipping Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Mac/Build.sh",
+			"args": [
+				"PuzzlePlatform",
+				"IOS",
+				"Shipping",
+				"'/Users/Rogue/Documents/Unreal Projects/PuzzlePlatform/PuzzlePlatform.uproject'",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/Users/Shared/EpicGames/UE_4.18"
+			}
+		},
+		{
+			"taskName": "PuzzlePlatform IOS Shipping Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Mac/Build.sh",
+			"args": [
+				"PuzzlePlatform",
+				"IOS",
+				"Shipping",
+				"'/Users/Rogue/Documents/Unreal Projects/PuzzlePlatform/PuzzlePlatform.uproject'",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/Users/Shared/EpicGames/UE_4.18"
+			}
+		},
+		{
+			"taskName": "PuzzlePlatform IOS Test Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Mac/Build.sh",
+			"args": [
+				"PuzzlePlatform",
+				"IOS",
+				"Test",
+				"'/Users/Rogue/Documents/Unreal Projects/PuzzlePlatform/PuzzlePlatform.uproject'",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/Users/Shared/EpicGames/UE_4.18"
+			}
+		},
+		{
+			"taskName": "PuzzlePlatform IOS Test Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Mac/Build.sh",
+			"args": [
+				"PuzzlePlatform",
+				"IOS",
+				"Test",
+				"'/Users/Rogue/Documents/Unreal Projects/PuzzlePlatform/PuzzlePlatform.uproject'",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/Users/Shared/EpicGames/UE_4.18"
+			}
+		},
+		{
+			"taskName": "PuzzlePlatform HTML5 Debug Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Mac/Build.sh",
+			"args": [
+				"PuzzlePlatform",
+				"HTML5",
+				"Debug",
+				"'/Users/Rogue/Documents/Unreal Projects/PuzzlePlatform/PuzzlePlatform.uproject'",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/Users/Shared/EpicGames/UE_4.18"
+			}
+		},
+		{
+			"taskName": "PuzzlePlatform HTML5 Debug Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Mac/Build.sh",
+			"args": [
+				"PuzzlePlatform",
+				"HTML5",
+				"Debug",
+				"'/Users/Rogue/Documents/Unreal Projects/PuzzlePlatform/PuzzlePlatform.uproject'",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/Users/Shared/EpicGames/UE_4.18"
+			}
+		},
+		{
+			"taskName": "PuzzlePlatform HTML5 DebugGame Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Mac/Build.sh",
+			"args": [
+				"PuzzlePlatform",
+				"HTML5",
+				"DebugGame",
+				"'/Users/Rogue/Documents/Unreal Projects/PuzzlePlatform/PuzzlePlatform.uproject'",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/Users/Shared/EpicGames/UE_4.18"
+			}
+		},
+		{
+			"taskName": "PuzzlePlatform HTML5 DebugGame Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Mac/Build.sh",
+			"args": [
+				"PuzzlePlatform",
+				"HTML5",
+				"DebugGame",
+				"'/Users/Rogue/Documents/Unreal Projects/PuzzlePlatform/PuzzlePlatform.uproject'",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/Users/Shared/EpicGames/UE_4.18"
+			}
+		},
+		{
+			"taskName": "PuzzlePlatform HTML5 Development Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Mac/Build.sh",
+			"args": [
+				"PuzzlePlatform",
+				"HTML5",
+				"Development",
+				"'/Users/Rogue/Documents/Unreal Projects/PuzzlePlatform/PuzzlePlatform.uproject'",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/Users/Shared/EpicGames/UE_4.18"
+			}
+		},
+		{
+			"taskName": "PuzzlePlatform HTML5 Development Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Mac/Build.sh",
+			"args": [
+				"PuzzlePlatform",
+				"HTML5",
+				"Development",
+				"'/Users/Rogue/Documents/Unreal Projects/PuzzlePlatform/PuzzlePlatform.uproject'",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/Users/Shared/EpicGames/UE_4.18"
+			}
+		},
+		{
+			"taskName": "PuzzlePlatform HTML5 Shipping Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Mac/Build.sh",
+			"args": [
+				"PuzzlePlatform",
+				"HTML5",
+				"Shipping",
+				"'/Users/Rogue/Documents/Unreal Projects/PuzzlePlatform/PuzzlePlatform.uproject'",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/Users/Shared/EpicGames/UE_4.18"
+			}
+		},
+		{
+			"taskName": "PuzzlePlatform HTML5 Shipping Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Mac/Build.sh",
+			"args": [
+				"PuzzlePlatform",
+				"HTML5",
+				"Shipping",
+				"'/Users/Rogue/Documents/Unreal Projects/PuzzlePlatform/PuzzlePlatform.uproject'",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/Users/Shared/EpicGames/UE_4.18"
+			}
+		},
+		{
+			"taskName": "PuzzlePlatform HTML5 Test Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Mac/Build.sh",
+			"args": [
+				"PuzzlePlatform",
+				"HTML5",
+				"Test",
+				"'/Users/Rogue/Documents/Unreal Projects/PuzzlePlatform/PuzzlePlatform.uproject'",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/Users/Shared/EpicGames/UE_4.18"
+			}
+		},
+		{
+			"taskName": "PuzzlePlatform HTML5 Test Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Mac/Build.sh",
+			"args": [
+				"PuzzlePlatform",
+				"HTML5",
+				"Test",
+				"'/Users/Rogue/Documents/Unreal Projects/PuzzlePlatform/PuzzlePlatform.uproject'",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/Users/Shared/EpicGames/UE_4.18"
+			}
+		},
+		{
+			"taskName": "PuzzlePlatformEditor Mac Debug Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Mac/Build.sh",
+			"args": [
+				"PuzzlePlatformEditor",
+				"Mac",
+				"Debug",
+				"'/Users/Rogue/Documents/Unreal Projects/PuzzlePlatform/PuzzlePlatform.uproject'",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/Users/Shared/EpicGames/UE_4.18"
+			}
+		},
+		{
+			"taskName": "PuzzlePlatformEditor Mac Debug Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Mac/Build.sh",
+			"args": [
+				"PuzzlePlatformEditor",
+				"Mac",
+				"Debug",
+				"'/Users/Rogue/Documents/Unreal Projects/PuzzlePlatform/PuzzlePlatform.uproject'",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/Users/Shared/EpicGames/UE_4.18"
+			}
+		},
+		{
+			"taskName": "PuzzlePlatformEditor Mac DebugGame Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Mac/Build.sh",
+			"args": [
+				"PuzzlePlatformEditor",
+				"Mac",
+				"DebugGame",
+				"'/Users/Rogue/Documents/Unreal Projects/PuzzlePlatform/PuzzlePlatform.uproject'",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/Users/Shared/EpicGames/UE_4.18"
+			}
+		},
+		{
+			"taskName": "PuzzlePlatformEditor Mac DebugGame Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Mac/Build.sh",
+			"args": [
+				"PuzzlePlatformEditor",
+				"Mac",
+				"DebugGame",
+				"'/Users/Rogue/Documents/Unreal Projects/PuzzlePlatform/PuzzlePlatform.uproject'",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/Users/Shared/EpicGames/UE_4.18"
+			}
+		},
+		{
+			"taskName": "PuzzlePlatformEditor Mac Development Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Mac/Build.sh",
+			"args": [
+				"PuzzlePlatformEditor",
+				"Mac",
+				"Development",
+				"'/Users/Rogue/Documents/Unreal Projects/PuzzlePlatform/PuzzlePlatform.uproject'",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/Users/Shared/EpicGames/UE_4.18"
+			}
+		},
+		{
+			"taskName": "PuzzlePlatformEditor Mac Development Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Mac/Build.sh",
+			"args": [
+				"PuzzlePlatformEditor",
+				"Mac",
+				"Development",
+				"'/Users/Rogue/Documents/Unreal Projects/PuzzlePlatform/PuzzlePlatform.uproject'",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/Users/Shared/EpicGames/UE_4.18"
+			}
+		}
+	]
+}
