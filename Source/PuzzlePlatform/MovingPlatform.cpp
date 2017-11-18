@@ -9,22 +9,56 @@ AMovingPlatform::AMovingPlatform()
     SetMobility(EComponentMobility::Movable);
 }
 
+void AMovingPlatform::BeginPlay()
+{
+    Super::BeginPlay();
+
+    if (HasAuthority())
+    {
+        SetReplicates(true);
+        SetReplicateMovement(true);
+    }
+
+    GlobalStartLocation = GetActorLocation();
+    GlobalTargetLocation = GetTransform().TransformPosition(TargetLocation);
+}
+
 void AMovingPlatform::Tick(float DeltaTime)
 {
     Super::Tick(DeltaTime);
-    
-    if(HasAuthority()) {
-        FVector Location = GetActorLocation();
-        Location += FVector(Speed * DeltaTime, 0, 0);
-        SetActorLocation(Location);
+
+    if(ActiveTriggers > 0) 
+    {
+        if (HasAuthority())
+        {
+            FVector Location = GetActorLocation();
+
+            float JourneyLength = (GlobalTargetLocation - GlobalStartLocation).Size();
+            float JourneyTraveled = (Location - GlobalStartLocation).Size();
+
+            if (JourneyTraveled >= JourneyLength)
+            {
+                FVector temp = GlobalStartLocation;
+                GlobalStartLocation = GlobalTargetLocation;
+                GlobalTargetLocation = temp;
+            }
+
+            FVector Direction = (GlobalTargetLocation - GlobalStartLocation).GetSafeNormal();
+            Location += Speed * DeltaTime * Direction;
+
+            SetActorLocation(Location);
+        }
     }
 }
 
-void AMovingPlatform::BeginPlay() {
-    Super::BeginPlay();
+void AMovingPlatform::AddActiveTrigger() 
+{
+    ActiveTriggers++;
+}
 
-    if(HasAuthority()){
-        SetReplicates(true);
-        SetReplicateMovement(true);
+void AMovingPlatform::RemoveActiveTrigger() 
+{
+    if(ActiveTriggers > 0) {
+        ActiveTriggers--;
     }
 }

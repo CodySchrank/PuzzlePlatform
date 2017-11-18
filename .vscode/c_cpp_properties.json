@@ -333,7 +333,8 @@
                 "/Users/Shared/EpicGames/UE_4.18/Engine/Source/Runtime/AudioMixer/Public/Components",
                 "/Users/Shared/EpicGames/UE_4.18/Engine/Source/Runtime/AudioMixer/Public/DSP",
                 "/Users/Shared/EpicGames/UE_4.18/Engine/Intermediate/Build/Mac/UE4Editor/Inc/AudioMixer",
-                "/Users/Shared/EpicGames/UE_4.18/Engine/Source/Runtime/AudioMixer"
+                "/Users/Shared/EpicGames/UE_4.18/Engine/Source/Runtime/AudioMixer",
+                "/usr/local/include"
             ],
             "intelliSenseMode": "clang-x64",
             "macFrameworkPath": [
@@ -676,7 +677,8 @@
                     "/Users/Shared/EpicGames/UE_4.18/Engine/Source/Runtime/AudioMixer/Public/Components",
                     "/Users/Shared/EpicGames/UE_4.18/Engine/Source/Runtime/AudioMixer/Public/DSP",
                     "/Users/Shared/EpicGames/UE_4.18/Engine/Intermediate/Build/Mac/UE4Editor/Inc/AudioMixer",
-                    "/Users/Shared/EpicGames/UE_4.18/Engine/Source/Runtime/AudioMixer"
+                    "/Users/Shared/EpicGames/UE_4.18/Engine/Source/Runtime/AudioMixer",
+                    "/usr/local/include"
                 ]
             }
         }
