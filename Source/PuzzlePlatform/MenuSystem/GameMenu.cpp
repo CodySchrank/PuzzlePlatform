@@ -14,6 +14,8 @@ bool UGameMenu::Initialize() {
             return false;
 
         CancelButton->OnClicked.AddDynamic(this, &UGameMenu::CancelButtonPressed);
+
+        return true;
 }
 
 void UGameMenu::CancelButtonPressed()
