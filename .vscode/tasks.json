@@ -9,7 +9,7 @@
 				"PuzzlePlatform",
 				"Mac",
 				"Debug",
-				"'/Users/Rogue/Documents/Unreal Projects/PuzzlePlatform/PuzzlePlatform.uproject'",
+				"'/Users/Rogue/Documents/Unreal Projects/MenuSystem/PuzzlePlatform/PuzzlePlatform.uproject'",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -26,7 +26,7 @@
 				"PuzzlePlatform",
 				"Mac",
 				"Debug",
-				"'/Users/Rogue/Documents/Unreal Projects/PuzzlePlatform/PuzzlePlatform.uproject'",
+				"'/Users/Rogue/Documents/Unreal Projects/MenuSystem/PuzzlePlatform/PuzzlePlatform.uproject'",
 				"-waitmutex",
 				"-clean"
 			],
@@ -44,7 +44,7 @@
 				"PuzzlePlatform",
 				"Mac",
 				"DebugGame",
-				"'/Users/Rogue/Documents/Unreal Projects/PuzzlePlatform/PuzzlePlatform.uproject'",
+				"'/Users/Rogue/Documents/Unreal Projects/MenuSystem/PuzzlePlatform/PuzzlePlatform.uproject'",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -61,7 +61,7 @@
 				"PuzzlePlatform",
 				"Mac",
 				"DebugGame",
-				"'/Users/Rogue/Documents/Unreal Projects/PuzzlePlatform/PuzzlePlatform.uproject'",
+				"'/Users/Rogue/Documents/Unreal Projects/MenuSystem/PuzzlePlatform/PuzzlePlatform.uproject'",
 				"-waitmutex",
 				"-clean"
 			],
@@ -79,7 +79,7 @@
 				"PuzzlePlatform",
 				"Mac",
 				"Development",
-				"'/Users/Rogue/Documents/Unreal Projects/PuzzlePlatform/PuzzlePlatform.uproject'",
+				"'/Users/Rogue/Documents/Unreal Projects/MenuSystem/PuzzlePlatform/PuzzlePlatform.uproject'",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -96,7 +96,7 @@
 				"PuzzlePlatform",
 				"Mac",
 				"Development",
-				"'/Users/Rogue/Documents/Unreal Projects/PuzzlePlatform/PuzzlePlatform.uproject'",
+				"'/Users/Rogue/Documents/Unreal Projects/MenuSystem/PuzzlePlatform/PuzzlePlatform.uproject'",
 				"-waitmutex",
 				"-clean"
 			],
@@ -114,7 +114,7 @@
 				"PuzzlePlatform",
 				"Mac",
 				"Shipping",
-				"'/Users/Rogue/Documents/Unreal Projects/PuzzlePlatform/PuzzlePlatform.uproject'",
+				"'/Users/Rogue/Documents/Unreal Projects/MenuSystem/PuzzlePlatform/PuzzlePlatform.uproject'",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -131,7 +131,7 @@
 				"PuzzlePlatform",
 				"Mac",
 				"Shipping",
-				"'/Users/Rogue/Documents/Unreal Projects/PuzzlePlatform/PuzzlePlatform.uproject'",
+				"'/Users/Rogue/Documents/Unreal Projects/MenuSystem/PuzzlePlatform/PuzzlePlatform.uproject'",
 				"-waitmutex",
 				"-clean"
 			],
@@ -149,7 +149,7 @@
 				"PuzzlePlatform",
 				"Mac",
 				"Test",
-				"'/Users/Rogue/Documents/Unreal Projects/PuzzlePlatform/PuzzlePlatform.uproject'",
+				"'/Users/Rogue/Documents/Unreal Projects/MenuSystem/PuzzlePlatform/PuzzlePlatform.uproject'",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -166,7 +166,7 @@
 				"PuzzlePlatform",
 				"Mac",
 				"Test",
-				"'/Users/Rogue/Documents/Unreal Projects/PuzzlePlatform/PuzzlePlatform.uproject'",
+				"'/Users/Rogue/Documents/Unreal Projects/MenuSystem/PuzzlePlatform/PuzzlePlatform.uproject'",
 				"-waitmutex",
 				"-clean"
 			],
@@ -184,7 +184,7 @@
 				"PuzzlePlatform",
 				"IOS",
 				"Debug",
-				"'/Users/Rogue/Documents/Unreal Projects/PuzzlePlatform/PuzzlePlatform.uproject'",
+				"'/Users/Rogue/Documents/Unreal Projects/MenuSystem/PuzzlePlatform/PuzzlePlatform.uproject'",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -201,7 +201,7 @@
 				"PuzzlePlatform",
 				"IOS",
 				"Debug",
-				"'/Users/Rogue/Documents/Unreal Projects/PuzzlePlatform/PuzzlePlatform.uproject'",
+				"'/Users/Rogue/Documents/Unreal Projects/MenuSystem/PuzzlePlatform/PuzzlePlatform.uproject'",
 				"-waitmutex",
 				"-clean"
 			],
@@ -219,7 +219,7 @@
 				"PuzzlePlatform",
 				"IOS",
 				"DebugGame",
-				"'/Users/Rogue/Documents/Unreal Projects/PuzzlePlatform/PuzzlePlatform.uproject'",
+				"'/Users/Rogue/Documents/Unreal Projects/MenuSystem/PuzzlePlatform/PuzzlePlatform.uproject'",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -236,7 +236,7 @@
 				"PuzzlePlatform",
 				"IOS",
 				"DebugGame",
-				"'/Users/Rogue/Documents/Unreal Projects/PuzzlePlatform/PuzzlePlatform.uproject'",
+				"'/Users/Rogue/Documents/Unreal Projects/MenuSystem/PuzzlePlatform/PuzzlePlatform.uproject'",
 				"-waitmutex",
 				"-clean"
 			],
@@ -254,7 +254,7 @@
 				"PuzzlePlatform",
 				"IOS",
 				"Development",
-				"'/Users/Rogue/Documents/Unreal Projects/PuzzlePlatform/PuzzlePlatform.uproject'",
+				"'/Users/Rogue/Documents/Unreal Projects/MenuSystem/PuzzlePlatform/PuzzlePlatform.uproject'",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -271,7 +271,7 @@
 				"PuzzlePlatform",
 				"IOS",
 				"Development",
-				"'/Users/Rogue/Documents/Unreal Projects/PuzzlePlatform/PuzzlePlatform.uproject'",
+				"'/Users/Rogue/Documents/Unreal Projects/MenuSystem/PuzzlePlatform/PuzzlePlatform.uproject'",
 				"-waitmutex",
 				"-clean"
 			],
@@ -289,7 +289,7 @@
 				"PuzzlePlatform",
 				"IOS",
 				"Shipping",
-				"'/Users/Rogue/Documents/Unreal Projects/PuzzlePlatform/PuzzlePlatform.uproject'",
+				"'/Users/Rogue/Documents/Unreal Projects/MenuSystem/PuzzlePlatform/PuzzlePlatform.uproject'",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -306,7 +306,7 @@
 				"PuzzlePlatform",
 				"IOS",
 				"Shipping",
-				"'/Users/Rogue/Documents/Unreal Projects/PuzzlePlatform/PuzzlePlatform.uproject'",
+				"'/Users/Rogue/Documents/Unreal Projects/MenuSystem/PuzzlePlatform/PuzzlePlatform.uproject'",
 				"-waitmutex",
 				"-clean"
 			],
@@ -324,7 +324,7 @@
 				"PuzzlePlatform",
 				"IOS",
 				"Test",
-				"'/Users/Rogue/Documents/Unreal Projects/PuzzlePlatform/PuzzlePlatform.uproject'",
+				"'/Users/Rogue/Documents/Unreal Projects/MenuSystem/PuzzlePlatform/PuzzlePlatform.uproject'",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -341,7 +341,7 @@
 				"PuzzlePlatform",
 				"IOS",
 				"Test",
-				"'/Users/Rogue/Documents/Unreal Projects/PuzzlePlatform/PuzzlePlatform.uproject'",
+				"'/Users/Rogue/Documents/Unreal Projects/MenuSystem/PuzzlePlatform/PuzzlePlatform.uproject'",
 				"-waitmutex",
 				"-clean"
 			],
@@ -359,7 +359,7 @@
 				"PuzzlePlatform",
 				"HTML5",
 				"Debug",
-				"'/Users/Rogue/Documents/Unreal Projects/PuzzlePlatform/PuzzlePlatform.uproject'",
+				"'/Users/Rogue/Documents/Unreal Projects/MenuSystem/PuzzlePlatform/PuzzlePlatform.uproject'",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -376,7 +376,7 @@
 				"PuzzlePlatform",
 				"HTML5",
 				"Debug",
-				"'/Users/Rogue/Documents/Unreal Projects/PuzzlePlatform/PuzzlePlatform.uproject'",
+				"'/Users/Rogue/Documents/Unreal Projects/MenuSystem/PuzzlePlatform/PuzzlePlatform.uproject'",
 				"-waitmutex",
 				"-clean"
 			],
@@ -394,7 +394,7 @@
 				"PuzzlePlatform",
 				"HTML5",
 				"DebugGame",
-				"'/Users/Rogue/Documents/Unreal Projects/PuzzlePlatform/PuzzlePlatform.uproject'",
+				"'/Users/Rogue/Documents/Unreal Projects/MenuSystem/PuzzlePlatform/PuzzlePlatform.uproject'",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -411,7 +411,7 @@
 				"PuzzlePlatform",
 				"HTML5",
 				"DebugGame",
-				"'/Users/Rogue/Documents/Unreal Projects/PuzzlePlatform/PuzzlePlatform.uproject'",
+				"'/Users/Rogue/Documents/Unreal Projects/MenuSystem/PuzzlePlatform/PuzzlePlatform.uproject'",
 				"-waitmutex",
 				"-clean"
 			],
@@ -429,7 +429,7 @@
 				"PuzzlePlatform",
 				"HTML5",
 				"Development",
-				"'/Users/Rogue/Documents/Unreal Projects/PuzzlePlatform/PuzzlePlatform.uproject'",
+				"'/Users/Rogue/Documents/Unreal Projects/MenuSystem/PuzzlePlatform/PuzzlePlatform.uproject'",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -446,7 +446,7 @@
 				"PuzzlePlatform",
 				"HTML5",
 				"Development",
-				"'/Users/Rogue/Documents/Unreal Projects/PuzzlePlatform/PuzzlePlatform.uproject'",
+				"'/Users/Rogue/Documents/Unreal Projects/MenuSystem/PuzzlePlatform/PuzzlePlatform.uproject'",
 				"-waitmutex",
 				"-clean"
 			],
@@ -464,7 +464,7 @@
 				"PuzzlePlatform",
 				"HTML5",
 				"Shipping",
-				"'/Users/Rogue/Documents/Unreal Projects/PuzzlePlatform/PuzzlePlatform.uproject'",
+				"'/Users/Rogue/Documents/Unreal Projects/MenuSystem/PuzzlePlatform/PuzzlePlatform.uproject'",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -481,7 +481,7 @@
 				"PuzzlePlatform",
 				"HTML5",
 				"Shipping",
-				"'/Users/Rogue/Documents/Unreal Projects/PuzzlePlatform/PuzzlePlatform.uproject'",
+				"'/Users/Rogue/Documents/Unreal Projects/MenuSystem/PuzzlePlatform/PuzzlePlatform.uproject'",
 				"-waitmutex",
 				"-clean"
 			],
@@ -499,7 +499,7 @@
 				"PuzzlePlatform",
 				"HTML5",
 				"Test",
-				"'/Users/Rogue/Documents/Unreal Projects/PuzzlePlatform/PuzzlePlatform.uproject'",
+				"'/Users/Rogue/Documents/Unreal Projects/MenuSystem/PuzzlePlatform/PuzzlePlatform.uproject'",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -516,7 +516,7 @@
 				"PuzzlePlatform",
 				"HTML5",
 				"Test",
-				"'/Users/Rogue/Documents/Unreal Projects/PuzzlePlatform/PuzzlePlatform.uproject'",
+				"'/Users/Rogue/Documents/Unreal Projects/MenuSystem/PuzzlePlatform/PuzzlePlatform.uproject'",
 				"-waitmutex",
 				"-clean"
 			],
@@ -534,7 +534,7 @@
 				"PuzzlePlatformEditor",
 				"Mac",
 				"Debug",
-				"'/Users/Rogue/Documents/Unreal Projects/PuzzlePlatform/PuzzlePlatform.uproject'",
+				"'/Users/Rogue/Documents/Unreal Projects/MenuSystem/PuzzlePlatform/PuzzlePlatform.uproject'",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -551,7 +551,7 @@
 				"PuzzlePlatformEditor",
 				"Mac",
 				"Debug",
-				"'/Users/Rogue/Documents/Unreal Projects/PuzzlePlatform/PuzzlePlatform.uproject'",
+				"'/Users/Rogue/Documents/Unreal Projects/MenuSystem/PuzzlePlatform/PuzzlePlatform.uproject'",
 				"-waitmutex",
 				"-clean"
 			],
@@ -569,7 +569,7 @@
 				"PuzzlePlatformEditor",
 				"Mac",
 				"DebugGame",
-				"'/Users/Rogue/Documents/Unreal Projects/PuzzlePlatform/PuzzlePlatform.uproject'",
+				"'/Users/Rogue/Documents/Unreal Projects/MenuSystem/PuzzlePlatform/PuzzlePlatform.uproject'",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -586,7 +586,7 @@
 				"PuzzlePlatformEditor",
 				"Mac",
 				"DebugGame",
-				"'/Users/Rogue/Documents/Unreal Projects/PuzzlePlatform/PuzzlePlatform.uproject'",
+				"'/Users/Rogue/Documents/Unreal Projects/MenuSystem/PuzzlePlatform/PuzzlePlatform.uproject'",
 				"-waitmutex",
 				"-clean"
 			],
@@ -604,7 +604,7 @@
 				"PuzzlePlatformEditor",
 				"Mac",
 				"Development",
-				"'/Users/Rogue/Documents/Unreal Projects/PuzzlePlatform/PuzzlePlatform.uproject'",
+				"'/Users/Rogue/Documents/Unreal Projects/MenuSystem/PuzzlePlatform/PuzzlePlatform.uproject'",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -621,7 +621,7 @@
 				"PuzzlePlatformEditor",
 				"Mac",
 				"Development",
-				"'/Users/Rogue/Documents/Unreal Projects/PuzzlePlatform/PuzzlePlatform.uproject'",
+				"'/Users/Rogue/Documents/Unreal Projects/MenuSystem/PuzzlePlatform/PuzzlePlatform.uproject'",
 				"-waitmutex",
 				"-clean"
 			],
@@ -630,6 +630,153 @@
 			"options": {
 				"cwd": "/Users/Shared/EpicGames/UE_4.18"
 			}
+		},
+		{
+			"taskName": "UE4-Mac : Generate PuzzlePlatform Project Files",
+			"type": "process",
+			"command": "mono",
+			"args": [
+				"/Users/Shared/EpicGames/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe",
+				"-xcodeprojectfile",
+				"/Users/Rogue/Documents/Unreal Projects/MenuSystem/PuzzlePlatform/PuzzlePlatform.uproject",
+				"-game",
+				"-rocket",
+				"-waitmutex",
+				"-engine"
+			]
+		},
+		{
+			"taskName": "UE4-Mac : Launch Unreal Editor",
+			"type": "process",
+			"command": "open",
+			"args": [
+				"/Users/Shared/EpicGames/UE_4.18/Engine/Binaries/Mac/UE4Editor.app",
+				"--args"
+			]
+		},
+		{
+			"taskName": "UE4-Mac : Open PuzzlePlatform With Editor [Development Editor]",
+			"type": "process",
+			"command": "open",
+			"args": [
+				"/Users/Shared/EpicGames/UE_4.18/Engine/Binaries/Mac/UE4Editor.app",
+				"--args",
+				"/Users/Rogue/Documents/Unreal Projects/MenuSystem/PuzzlePlatform/PuzzlePlatform.uproject"
+			]
+		},
+		{
+			"taskName": "UE4-Mac : Open PuzzlePlatform With Editor [DebugGame Editor]",
+			"type": "process",
+			"command": "open",
+			"args": [
+				"/Users/Shared/EpicGames/UE_4.18/Engine/Binaries/Mac/UE4Editor.app",
+				"--args",
+				"/Users/Rogue/Documents/Unreal Projects/MenuSystem/PuzzlePlatform/PuzzlePlatform.uproject",
+				"-debug"
+			],
+			"problemMatcher": [
+				"$msCompile"
+			]
+		},
+		{
+			"taskName": "UE4-Mac : Run PuzzlePlatform With Editor [Development Editor]",
+			"type": "process",
+			"command": "open",
+			"args": [
+				"/Users/Shared/EpicGames/UE_4.18/Engine/Binaries/Mac/UE4Editor.app",
+				"--args",
+				"/Users/Rogue/Documents/Unreal Projects/MenuSystem/PuzzlePlatform/PuzzlePlatform.uproject",
+				"-game"
+			]
+		},
+		{
+			"taskName": "UE4-Mac : Run PuzzlePlatform With Editor [DebugGame Editor]",
+			"type": "process",
+			"command": "open",
+			"args": [
+				"/Users/Shared/EpicGames/UE_4.18/Engine/Binaries/Mac/UE4Editor.app",
+				"--args",
+				"/Users/Rogue/Documents/Unreal Projects/MenuSystem/PuzzlePlatform/PuzzlePlatform.uproject",
+				"-game",
+				"-debug"
+			]
+		},
+		{
+			"taskName": "UE4-Mac : Build PuzzlePlatform [Development Editor]",
+			"type": "process",
+			"group": "build",
+			"command": "mono",
+			"args": [
+				"/Users/Shared/EpicGames/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe",
+				"PuzzlePlatformEditor",
+				"Mac",
+				"Development",
+				"/Users/Rogue/Documents/Unreal Projects/MenuSystem/PuzzlePlatform/PuzzlePlatform.uproject",
+				"-waitmutex"
+			]
+		},
+		{
+			"taskName": "UE4-Mac : Clean PuzzlePlatform [Development Editor]",
+			"type": "process",
+			"group": "build",
+			"command": "mono",
+			"args": [
+				"/Users/Shared/EpicGames/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe",
+				"PuzzlePlatformEditor",
+				"Mac",
+				"Development",
+				"/Users/Rogue/Documents/Unreal Projects/MenuSystem/PuzzlePlatform/PuzzlePlatform.uproject",
+				"-waitmutex",
+				"-clean"
+			]
+		},
+		{
+			"taskName": "UE4-Mac : Rebuild PuzzlePlatform [Development Editor]",
+			"group": "build",
+			"dependsOn": [
+				"UE4-Mac : Clean PuzzlePlatform [Development Editor]",
+				"UE4-Mac : Build PuzzlePlatform [Development Editor]"
+			]
+		},
+		{
+			"taskName": "UE4-Mac : Build PuzzlePlatform [DebugGame Editor]",
+			"type": "process",
+			"group": "build",
+			"command": "mono",
+			"args": [
+				"/Users/Shared/EpicGames/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe",
+				"PuzzlePlatformEditor",
+				"Mac",
+				"DebugGame",
+				"/Users/Rogue/Documents/Unreal Projects/MenuSystem/PuzzlePlatform/PuzzlePlatform.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": [
+				"$msCompile"
+			]
+		},
+		{
+			"taskName": "UE4-Mac : Clean PuzzlePlatform [DebugGame Editor]",
+			"type": "process",
+			"group": "build",
+			"command": "mono",
+			"args": [
+				"/Users/Shared/EpicGames/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe",
+				"PuzzlePlatformEditor",
+				"Mac",
+				"DebugGame",
+				"/Users/Rogue/Documents/Unreal Projects/MenuSystem/PuzzlePlatform/PuzzlePlatform.uproject",
+				"-waitmutex",
+				"-clean"
+			]
+		},
+		{
+			"taskName": "UE4-Mac : Rebuild PuzzlePlatform [DebugGame Editor]",
+			"group": "build",
+			"dependsOn": [
+				"UE4-Mac : Clean PuzzlePlatform [DebugGame Editor]",
+				"UE4-Mac : Build PuzzlePlatform [DebugGame Editor]"
+			]
 		}
 	]
 }
